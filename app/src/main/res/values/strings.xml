@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">novel</string>
+    <string name="puzzle">Пазл</string>
+    <string name="episode">Эпизод</string>
+</resources>
